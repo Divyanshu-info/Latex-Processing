@@ -1,0 +1,53 @@
+\contentsline {chapter}{LIST OF TABLES}{i}{}%
+\contentsline {chapter}{\numberline {1}Payment Gateway Analysis}{1}{}%
+\contentsline {section}{\numberline {1.1}Introduction}{1}{}%
+\contentsline {section}{\numberline {1.2}Review of Payment Gateways}{8}{}%
+\contentsline {subsection}{\numberline {1.2.1}RazorPay}{8}{}%
+\contentsline {subsection}{\numberline {1.2.2}PayU}{9}{}%
+\contentsline {subsection}{\numberline {1.2.3}CashFree}{11}{}%
+\contentsline {subsection}{\numberline {1.2.4}Instamojo}{13}{}%
+\contentsline {subsection}{\numberline {1.2.5}CCAvenue}{14}{}%
+\contentsline {subsection}{\numberline {1.2.6}Paytm}{16}{}%
+\contentsline {subsection}{\numberline {1.2.7}Mobikwik}{18}{}%
+\contentsline {subsection}{\numberline {1.2.8}HDFC Bank Payment Gateway}{19}{}%
+\contentsline {subsection}{\numberline {1.2.9}ICICI Bank Payment Gateway}{20}{}%
+\contentsline {subsection}{\numberline {1.2.10}Axis Bank Payment Gateway}{22}{}%
+\contentsline {section}{\numberline {1.3}Perform a proper analysis and recommend to Outlook 3 Payment Gateways in order of preference.}{23}{}%
+\contentsline {section}{\numberline {1.4}EMI Strategy to Sell Higher Value Digital Subscriptions of Outlook Magazine}{25}{}%
+\contentsline {subsection}{\numberline {1.4.1}EMI Plans}{27}{}%
+\contentsline {chapter}{\numberline {2}Investment Analysis}{29}{}%
+\contentsline {section}{\numberline {2.1}Asset Classes}{29}{}%
+\contentsline {section}{\numberline {2.2}Key Insights from Survey}{30}{}%
+\contentsline {section}{\numberline {2.3}Investment Portfolios}{32}{}%
+\contentsline {chapter}{\numberline {3}Stock Market Analysis}{36}{}%
+\contentsline {section}{\numberline {3.1}The Significance of Stock Market Investment in Current Financial Scenario}{36}{}%
+\contentsline {section}{\numberline {3.2}Macroeconomic Factors that Influence Stock Prices}{37}{}%
+\contentsline {section}{\numberline {3.3}Key Financials that Influence Stock Price}{38}{}%
+\contentsline {section}{\numberline {3.4}Stock Market Crashes and Booms}{39}{}%
+\contentsline {section}{\numberline {3.5}Financial Terms}{40}{}%
+\contentsline {section}{\numberline {3.6}Regulating Bodies and Indices for Stock Markets}{41}{}%
+\contentsline {section}{\numberline {3.7}Top 10 Stocks for FY 2022-23}{42}{}%
+\contentsline {subsection}{\numberline {3.7.1}Reliance Industries (RIL)}{43}{}%
+\contentsline {subsection}{\numberline {3.7.2}Motherson Sumi Systems}{43}{}%
+\contentsline {subsection}{\numberline {3.7.3}Gail India}{44}{}%
+\contentsline {subsection}{\numberline {3.7.4}Ipca Laboratories}{45}{}%
+\contentsline {subsection}{\numberline {3.7.5}Mahindra and Mahindra}{46}{}%
+\contentsline {subsection}{\numberline {3.7.6}Paras Defence and Space Technologies}{46}{}%
+\contentsline {subsection}{\numberline {3.7.7}State Bank of India (SBI)}{47}{}%
+\contentsline {subsection}{\numberline {3.7.8}Tata Consultancy Services (TCS)}{48}{}%
+\contentsline {subsection}{\numberline {3.7.9}Hero MotoCorp}{48}{}%
+\contentsline {subsection}{\numberline {3.7.10}Bharti Airtel}{49}{}%
+\contentsline {section}{\numberline {3.8}Analyze the performance of below stocks and forecast the performance for next 2 years}{50}{}%
+\contentsline {subsection}{\numberline {3.8.1}Indusind Bank}{50}{}%
+\contentsline {subsubsection}{\numberline {3.8.1.1}Key Financial}{51}{}%
+\contentsline {subsection}{\numberline {3.8.2}Axis Bank}{54}{}%
+\contentsline {subsubsection}{\numberline {3.8.2.1}Key Financials}{55}{}%
+\contentsline {subsection}{\numberline {3.8.3}RBL Bank}{58}{}%
+\contentsline {subsection}{\numberline {3.8.4}Motherson}{63}{}%
+\contentsline {subsubsection}{\numberline {3.8.4.1}Key Financials}{65}{}%
+\contentsline {subsection}{\numberline {3.8.5}Camlin Fine Sciences}{69}{}%
+\contentsline {subsubsection}{\numberline {3.8.5.1}Key Financials}{70}{}%
+\contentsline {subsection}{\numberline {3.8.6}Ramkrishna Forgings}{74}{}%
+\contentsline {subsubsection}{\numberline {3.8.6.1}Key Financials}{74}{}%
+\contentsline {subsection}{\numberline {3.8.7}Titan Company Limited}{79}{}%
+\contentsline {subsection}{\numberline {3.8.8}Havells India}{83}{}%
