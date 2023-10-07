@@ -1,0 +1,107 @@
+\begin{thebibliography}{16}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Singh and Singh(2012)]{singhemergence}
+Nripendra Singh and Mr~Ajay Singh.
+\newblock Emergence of private labels in indian organised retail.
+\newblock \emph{Inclusive Growth and Innovative Practices in Management}, 2012.
+
+\bibitem[Gowda(2009)]{gowda2009green}
+MV~Gowda.
+\newblock From green revolution to evergreen revolution.
+\newblock \emph{Outlook Publishing (India) Pvt. Ltd.}, 2009.
+
+\bibitem[Ganapati(2004)]{Whichbus35:online}
+Priya Ganapati.
+\newblock Which business family owns outlook? - rediff.com business, Feb 2004.
+\newblock (Accessed on 08/16/2023).
+
+\bibitem[Survey(2014)]{TWOLINEH38:online}
+IRS~Topline Survey.
+\newblock Top english magazine, 2014.
+
+\bibitem[Sinha(2022)]{AboutUsO20}
+Chinki Sinha.
+\newblock About us - outlook india, 2022.
+\newblock (Accessed on 08/16/2023).
+
+\bibitem[Thakur(2023)]{Indianso78}
+Anurag Thakur.
+\newblock Indian software industry expected to reach \$100 bn by 2025: Anurag
+  thakur, April 2023.
+\newblock (Accessed on 08/17/2023).
+
+\bibitem[Bhide(2019)]{bhide2019growth}
+Kedar Bhide.
+\newblock Growth of digital payment system in india.
+\newblock \emph{Think India Journal}, 22\penalty0 (33):\penalty0 245--251,
+  2019.
+
+\bibitem[Durga and Sarvani(2023)]{durga2023study}
+H~Kanaka Durga and K~Sarvani.
+\newblock A study on fintech start-ups in india special refernce to payments
+  and blockchain.
+\newblock \emph{European Economic Letters (EEL)}, 13\penalty0 (3):\penalty0
+  887--891, 2023.
+
+\bibitem[Patel(2022)]{patelpayment}
+Priyanka Patel.
+\newblock E-payment--a review on different methods, issues and challenges.
+\newblock \emph{INTERNATIONAL JOURNAL OF TECHNICAL SCIENCE \& EXPLORATION}, 3,
+  October 2022.
+
+\bibitem[Bekkers et~al.(2009)Bekkers, Doeswijk, and Lam]{bekkers2009strategic}
+Niels Bekkers, Ronald~Q Doeswijk, and Trevin~W Lam.
+\newblock Strategic asset allocation: Determining the optimal portfolio with
+  ten asset classes.
+\newblock \emph{The Journal of Wealth Management}, 12\penalty0 (3):\penalty0
+  61--77, 2009.
+
+\bibitem[Shaik et~al.(2022)Shaik, Kethan, Jaggaiah, and
+  Khizerulla]{shaik2022financial}
+Mahabub~Basha Shaik, M~Kethan, T~Jaggaiah, and Mohammed Khizerulla.
+\newblock Financial literacy and investment behaviour of it professional in
+  india.
+\newblock \emph{East Asian Journal of Multidisciplinary Research}, 1\penalty0
+  (5):\penalty0 777--788, 2022.
+
+\bibitem[Subbu et~al.(2005)Subbu, Bonissone, Eklund, Bollapragada, and
+  Chalermkraivuth]{subbu2005multiobjective}
+Raj Subbu, Piero~P Bonissone, Neil Eklund, Srinivas Bollapragada, and Kete
+  Chalermkraivuth.
+\newblock Multiobjective financial portfolio design: A hybrid evolutionary
+  approach.
+\newblock In \emph{2005 IEEE congress on evolutionary computation}, volume~2,
+  pages 1722--1729. IEEE, 2005.
+
+\bibitem[Sen et~al.(2022)Sen, Awad, Raj, Ray, Chakraborty, Das, and
+  Mishra]{sen2022stock}
+Jaydip Sen, Arpit Awad, Aaditya Raj, Gourav Ray, Pusparna Chakraborty, Sanket
+  Das, and Subhasmita Mishra.
+\newblock Stock performance evaluation for portfolio design from different
+  sectors of the indian stock market, 2022.
+
+\bibitem[Sureshkumar and Elango(2011)]{sureshkumar2011efficient}
+KK~Sureshkumar and NM~Elango.
+\newblock An efficient approach to forecast indian stock market price and their
+  performance analysis.
+\newblock \emph{International Journal of Computer Applications}, 34\penalty0
+  (5):\penalty0 44--49, 2011.
+
+\bibitem[Tripathi and Japee(2020)]{tripathi2020performance}
+Shivam Tripathi and Dr~Gurudutta~P Japee.
+\newblock Performance evaluation of selected equity mutual funds in india.
+\newblock \emph{Gap Gyan-A Global Journal of Social Sciences}, 2020.
+
+\bibitem[Choudhary and Chawla(2014)]{choudhary2014performance}
+Vikas Choudhary and Preeti~Sehgal Chawla.
+\newblock Performance evaluation of mutual funds: A study of selected
+  diversified equity mutual funds in india.
+\newblock In \emph{International Conference on Business, Law and Corporate
+  Social Responsibility}, volume~2, 2014.
+
+\end{thebibliography}

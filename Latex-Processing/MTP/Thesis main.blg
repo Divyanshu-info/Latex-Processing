@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis main.aux
+The style file: kluwer.bst
+Database file #1: ref.bib
+Warning--empty title in Jurczenko2020
+Warning--empty booktitle in Zhang2019400
+You've used 32 entries,
+            2880 wiz_defined-function locations,
+            857 strings with 10595 characters,
+and the built_in function-call counts, 183312 in all, are:
+= -- 29983
+> -- 2816
+< -- 2
++ -- 14756
+- -- 876
+* -- 16325
+:= -- 36086
+add.period$ -- 32
+call.type$ -- 32
+change.case$ -- 447
+chr.to.int$ -- 32
+cite$ -- 34
+duplicate$ -- 485
+empty$ -- 1065
+format.name$ -- 982
+if$ -- 33016
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 32
+newline$ -- 99
+num.names$ -- 340
+pop$ -- 63
+preamble$ -- 1
+purify$ -- 480
+quote$ -- 0
+skip$ -- 493
+stack$ -- 0
+substring$ -- 43016
+swap$ -- 98
+text.length$ -- 450
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 128
+warning$ -- 2
+while$ -- 707
+width$ -- 0
+write$ -- 429
+(There were 2 warnings)
