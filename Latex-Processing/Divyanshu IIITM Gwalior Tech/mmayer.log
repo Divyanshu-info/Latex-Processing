@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.9)  3 OCT 2023 15:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.5)  9 OCT 2023 01:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/divyanshu/Documents/GitHub/Personal/Latex-Processing/Divyanshu IIITM Gwalior Tech/mmayer.tex"
-(/home/divyanshu/Documents/GitHub/Personal/Latex-Processing/Divyanshu IIITM Gwalior Tech/mmayer.tex
+**"/home/divyanshu/Documents/GitHub/Latex-Processing/Latex-Processing/Divyanshu IIITM Gwalior Tech/mmayer.tex"
+(/home/divyanshu/Documents/GitHub/Latex-Processing/Latex-Processing/Divyanshu IIITM Gwalior Tech/mmayer.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (./altacv.cls
@@ -794,13 +794,13 @@ Package rerunfilecheck Info: File `mmayer.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32683 strings out of 476894
- 642480 string characters out of 5808765
+ 32683 strings out of 476851
+ 642504 string characters out of 5807573
  1952807 words of memory out of 5000000
- 53413 multiletter control sequences out of 15000+600000
+ 53420 multiletter control sequences out of 15000+600000
  827383 words of font info for 67 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 125i,8n,121p,618b,2380s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 36 hyphenation exceptions out of 8191
+ 125i,8n,121p,626b,2380s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
 Output written on mmayer.pdf (1 page, 2139983 bytes).
 PDF statistics:

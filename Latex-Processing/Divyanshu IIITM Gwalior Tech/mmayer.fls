@@ -1,8 +1,8 @@
-PWD /home/divyanshu/Documents/GitHub/Personal/Latex-Processing/Divyanshu IIITM Gwalior Tech
+PWD /home/divyanshu/Documents/GitHub/Latex-Processing/Latex-Processing/Divyanshu IIITM Gwalior Tech
 INPUT /usr/local/texlive/2023/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /home/divyanshu/Documents/GitHub/Personal/Latex-Processing/Divyanshu IIITM Gwalior Tech/mmayer.tex
+INPUT /home/divyanshu/Documents/GitHub/Latex-Processing/Latex-Processing/Divyanshu IIITM Gwalior Tech/mmayer.tex
 OUTPUT mmayer.log
 INPUT ./altacv.cls
 INPUT altacv.cls
