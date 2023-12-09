@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.5)  6 OCT 2023 09:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.5)  8 DEC 2023 11:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/divyanshu/Documents/GitHub/Personal/Latex-Processing/MTP/Thesis main.tex"
-(/home/divyanshu/Documents/GitHub/Personal/Latex-Processing/MTP/Thesis main.tex
+**"/home/divyanshu/Documents/GitHub/Latex-Processing/Latex-Processing/MTP/Thesis main.tex"
+(/home/divyanshu/Documents/GitHub/Latex-Processing/Latex-Processing/MTP/Thesis main.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/book.cls
@@ -269,7 +269,7 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 
 )
 \c@definition=\count277
-LaTeX Font Info:    Trying to load font information for T1+txr on input line 33.
+LaTeX Font Info:    Trying to load font information for T1+txr on input line 34.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/t1txr.fd
 File: t1txr.fd 2000/12/15 v3.1
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -279,36 +279,36 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 ) (./Thesis main.aux)
 \openout1 = `"Thesis main.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 33.
-LaTeX Font Info:    Trying to load font information for OML+txmi on input line 33.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 34.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 34.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 33.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 34.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 34.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for OMX+txex on input line 33.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 34.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 34.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 33.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 33.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 34.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 34.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -408,7 +408,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--21
 
 ) (./ack.tex [1]) (./abs.tex [2]) [3]
 LaTeX Font Info:    Font shape `T1/txr/b/n' in size <24.88> not available
-(Font)              Font shape `T1/txr/bx/n' tried instead on input line 46.
+(Font)              Font shape `T1/txr/bx/n' tried instead on input line 47.
  (./Thesis main.toc
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 3.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/ot1txr.fd
@@ -429,46 +429,107 @@ File: utxmia.fd 2000/12/15 v3.1
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 3.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
-))
+) [4
+
+])
 \tf@toc=\write3
 \openout3 = `"Thesis main.toc"'.
 
- (./ch1.tex [4
-
-]
+ (./ch1.tex [5]
 CHAPTER 1.
 [1
 
 ] [2] [3]) (./ch2.tex [4]
 CHAPTER 2.
-[5
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 13.
+(/usr/local/texlive/2023/texmf-dist/tex/latex/txfonts/ts1txr.fd
+File: ts1txr.fd 2000/12/15 v3.1
+) [5
 
-] [6]) (./Thesis main.bbl [7]
-Underfull \hbox (badness 1142) in paragraph at lines 19--20
+] [6]
+Overfull \hbox (1.86446pt too wide) in paragraph at lines 65--66
+[]\T1/txr/bx/n/12 Approach: \T1/txr/m/n/12 Uti-lizes reg-u-lar-iza-tion tech-niques to han-dle un-cer-tain-ties aris-ing from
+ []
+
+[7]
+Overfull \hbox (1.86253pt too wide) in paragraph at lines 90--91
+[]\T1/txr/m/n/12 The In-dian gov-ern-ment has es-tab-lished rules al-low-ing For-eign In-sti-tu-tional In-vestors
+ []
+
+
+Overfull \hbox (10.97343pt too wide) in paragraph at lines 92--92
+[]\T1/txr/bx/n/17.28 Baseline method and op-ti-miza-tion port-fo-lio con-struc-
+ []
+
+[8] [9] [10] [11]
+Overfull \hbox (9.54579pt too wide) in paragraph at lines 132--133
+\T1/txr/m/n/12 rawick-rama and Fer-nando (2017). Some re-searchers have pro-posed that the Bi-directional
+ []
+
+) (./ch3.tex [12]
+CHAPTER 3.
+[13
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+[15] [16] [17] [18] [19] [20] [21]) (./ch4.tex [22]
+CHAPTER 4.
+[23
+
+] [24]
+Overfull \hbox (18.05246pt too wide) in paragraph at lines 16--18
+\T1/txr/m/n/12 In (Eq 2), the weight given to stock $\OML/txmi/m/it/12 i$ \T1/txr/m/n/12 is de-fined by $\OML/txmi/m/it/12 w[]$\T1/txr/m/n/12 , the co-vari-ance be-tween stocks is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+[25]) (./Thesis main.bbl [26]
+Underfull \hbox (badness 1142) in paragraph at lines 27--28
 []\T1/txr/m/n/12 Bolognesi, E., Tor-luc-cio, G. and Zuc-cheri, A.: 2013, A com-par-i-son be-tween
  []
 
-[8
+[27
 
-] [9]) [10] (./Thesis main.aux)
+] [28] [29] [30] [31] [32] [33]) [34] (./Thesis main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5931 strings out of 476851
- 85482 string characters out of 5807573
- 1926807 words of memory out of 5000000
- 27090 multiletter control sequences out of 15000+600000
- 603164 words of font info for 99 fonts, out of 8000000 for 9000
+ 6167 strings out of 476851
+ 89646 string characters out of 5807573
+ 1928807 words of memory out of 5000000
+ 27306 multiletter control sequences out of 15000+600000
+ 616189 words of font info for 114 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 72i,6n,79p,1032b,277s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Thesis main.pdf" (15 pages, 207851 bytes).
+ 72i,10n,79p,1453b,391s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxi.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txex.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "Thesis main.pdf" (40 pages, 287984 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 194 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

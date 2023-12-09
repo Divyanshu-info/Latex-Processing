@@ -6,6 +6,14 @@ Arnott, R., Harvey, C. and Markowitz, H.: 2019, A backtesting protocol in the er
 \harvarditem[Arroyo et~al.]{Arroyo, Corea, Jimenez-Diaz and Recio-Garcia}{2019}{Arroyo2019124233}
 Arroyo, J., Corea, F., Jimenez-Diaz, G. and Recio-Garcia, J.: 2019, Assessment of machine learning performance for decision support in venture capital investments, {\em IEEE Access} {\bf 7},~124233--124243.
 
+\harvarditem[Ballings et~al.]{Ballings, Van~den Poel, Hespeels and Gryp}{2015}{Ballings2015}
+Ballings, M., Van~den Poel, D., Hespeels, N. and Gryp, R.: 2015, Evaluating multiple classifiers for stock price direction prediction, {\em Expert Systems with Applications} {\bf 42}(20),~7046--7056.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S0957417415003334}
+
+\harvarditem[Bao et~al.]{Bao, Yue and Rao}{2017}{Bao2017}
+Bao, W., Yue, J. and Rao, Y.: 2017, A deep learning framework for financial time series using stacked autoencoders and long-short term memory, {\em PLoS ONE} {\bf 12}(7).
+\newblock cited By 586.
+
 \harvarditem[Bartram et~al.]{Bartram, Branke, De~Rossi and Motahari}{2021}{Bartram20219}
 Bartram, S., Branke, J., De~Rossi, G. and Motahari, M.: 2021, Machine learning for active portfolio management, {\em Journal of Financial Data Science} {\bf 3}(3),~9--30.
 
@@ -18,8 +26,42 @@ Bollerslev, T.: 1986, Generalized autoregressive conditional heteroskedasticity,
 \harvarditem[Bolognesi et~al.]{Bolognesi, Torluccio and Zuccheri}{2013}{Bolognesi201314}
 Bolognesi, E., Torluccio, G. and Zuccheri, A.: 2013, A comparison between capitalization-weighted and equally weighted indexes in the european equity market, {\em Journal of Asset Management} {\bf 14}(1),~14--26.
 
-\harvarditem[Chen et~al.]{Chen, Liang, Hong and Gu}{2015}{Chen2015435}
+\harvarditem[Booth et~al.]{Booth, Gerding and McGroarty}{2014}{Booth2014}
+Booth, A., Gerding, E. and McGroarty, F.: 2014, Automated trading with performance weighted random forests and seasonality, {\em Expert Systems with Applications} {\bf 41}(8),~3651--3661.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S0957417413009731}
+
+\harvarditem{Breiman}{2001}{breiman2001random}
+Breiman, L.: 2001, Random forests, {\em Machine learning} {\bf 45},~5--32.
+
+\harvarditem{{Brogan, A.J. and Stidham Jr., S.}}{2008}{Brogan2008}
+{Brogan, A.J. and Stidham Jr., S.}: 2008, {Non-separation in the mean-lower-partial-moment portfolio optimization problem}, {\em European Journal of Operational Research} {\bf 184}(2),~701--710.
+\newblock cited By 10.
+
+\harvarditem{{Cai, X. and Teo, K.L. and Yang, X.Q. and Zhou, X.Y.}}{2004}{Cai2004}
+{Cai, X. and Teo, K.L. and Yang, X.Q. and Zhou, X.Y.}: 2004, {Minimax portfolio optimization: Empirical numerical study}, {\em Journal of the Operational Research Society} {\bf 55}(1),~65--72.
+\newblock cited By 9.
+
+\harvarditem{Chen}{2016}{Chen2016a}
+Chen, J.~M.: 2016, Sortino, {Omega}, {Kappa}: {The} {Algebra} of {Financial} {Asymmetry}, Quantitative {Perspectives} on {Behavioral} {Economics} and {Finance}, Palgrave Macmillan US, New York, pp.~79--105.
+
+\harvarditem{Chen, Zhou and Dai}{2015}{Chen2015}
+Chen, K., Zhou, Y. and Dai, F.: 2015, A lstm-based method for stock returns prediction: A case study of china stock market, pp.~2823--2824.
+\newblock cited By 410.
+
+\harvarditem{Chen, Liang, Hong and Gu}{2015}{Chen2015435}
 Chen, R., Liang, C.-Y., Hong, W.-C. and Gu, D.-X.: 2015, Forecasting holiday daily tourist flow based on seasonal support vector regression with adaptive genetic algorithm, {\em Applied Soft Computing} {\bf 26},~435--443.
+
+\harvarditem[Chen et~al.]{Chen, Xu, He and Wang}{2017}{Chen2017}
+Chen, T., Xu, R., He, Y. and Wang, X.: 2017, Improving sentiment analysis via sentence type classification using bilstm-crf and cnn, {\em Expert Systems with Applications} {\bf 72},~221--230.
+\newblock cited By 558.
+
+\harvarditem[Chiang et~al.]{Chiang, Enke, Wu and Wang}{2016}{Chiang2016}
+Chiang, W.-C., Enke, D., Wu, T. and Wang, R.: 2016, An adaptive stock index trading decision support system, {\em Expert Systems with Applications} {\bf 59},~195--207.
+\newblock cited By 103.
+
+\harvarditem[Clark et~al.]{Clark, Munnell and Orszag}{2006}{Clark2006}
+Clark, G.~L., Munnell, A.~H. and Orszag, J.~M.: 2006, {\em The {Oxford} {Handbook} of {Pensions} and {Retirement} {Income}}, OUP Oxford.
+\newblock Google-Books-ID: ndHLVuzcgqsC.
 
 \harvarditem{De~Prado}{2016}{DePrado201659}
 De~Prado, M.: 2016, Building diversified portfolios that outperform out of sample, {\em Journal of Portfolio Management} {\bf 42}(4),~59--69.
@@ -27,11 +69,57 @@ De~Prado, M.: 2016, Building diversified portfolios that outperform out of sampl
 \harvarditem[DeMiguel et~al.]{DeMiguel, Garlappi and Uppal}{2009}{DeMiguel20091915}
 DeMiguel, V., Garlappi, L. and Uppal, R.: 2009, Optimal versus naive diversification: How inefficient is the 1/n portfolio strategy?, {\em Review of Financial Studies} {\bf 22}(5),~1915--1953.
 
+\harvarditem{Di~Persio and Honchar}{2016}{DiPersio2016}
+Di~Persio, L. and Honchar, O.: 2016, Artificial neural networks architectures for stock price prediction: Comparisons and applications, {\em International Journal of Circuits, Systems and Signal Processing} {\bf 10},~403--413.
+\newblock cited By 149.
+
+\harvarditem{Emir}{2013}{Emir2013}
+Emir, S.: 2013, Predicting the {Istanbul} {Stock} {Exchange} {Index} {Return} using {Technical} {Indicators}: {A} {Comparative} {Study}, {\em International Journal of Finance \& Banking Studies (2147-4486)} {\bf 2}(3),~111--117.
+\newline\harvardurl{https://www.ssbfnet.com/ojs/index.php/ijfbs/article/view/425}
+
 \harvarditem{Engle and Granger}{1987}{Engle1987251}
 Engle, R. and Granger, C.: 1987, Cointegration and error correction: Representation, estimation and testing, {\em Econometrica} {\bf 55}(2),~251--276.
 
+\harvarditem{Feng and Palomar}{2016}{Feng2016}
+Feng, Y. and Palomar, D.~P.: 2016, Portfolio optimization with asset selection and risk parity control, {\em 2016 {IEEE} {International} {Conference} on {Acoustics}, {Speech} and {Signal} {Processing} ({ICASSP})}, pp.~6585--6589.
+\newblock ISSN: 2379-190X.
+\newline\harvardurl{https://ieeexplore.ieee.org/abstract/document/7472946}
+
+\harvarditem[Gilli et~al.]{Gilli, Schumann, di~Tollo and Cabej}{2011}{Gilli2011}
+Gilli, M., Schumann, E., di~Tollo, G. and Cabej, G.: 2011, Constructing 130/30-portfolios with the {Omega} ratio, {\em Journal of Asset Management} {\bf 12}(2),~94--108.
+\newline\harvardurl{https://doi.org/10.1057/jam.2010.25}
+
+\harvarditem{Graves and Schmidhuber}{2005}{Graves2005}
+Graves, A. and Schmidhuber, J.: 2005, Framewise phoneme classification with bidirectional {LSTM} and other neural network architectures, {\em Neural Networks} {\bf 18}(5),~602--610.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S0893608005001206}
+
 \harvarditem[Gu et~al.]{Gu, Kelly and Xiu}{2020}{Gu20202223}
 Gu, S., Kelly, B. and Xiu, D.: 2020, Empirical asset pricing via machine learning, {\em Review of Financial Studies} {\bf 33}(5),~2223--2273.
+
+\harvarditem{Gunjan and Bhattacharyya}{2023}{Gunjan2023}
+Gunjan, A. and Bhattacharyya, S.: 2023, A brief review of portfolio optimization techniques, {\em Artificial Intelligence Review} {\bf 56}(5),~3847--3886.
+\newline\harvardurl{https://doi.org/10.1007/s10462-022-10273-7}
+
+\harvarditem{Hayre}{2002}{Hayre2002}
+Hayre, L.: 2002, {\em Salomon {Smith} {Barney} {Guide} to {Mortgage}-{Backed} and {Asset}-{Backed} {Securities}}, John Wiley \& Sons.
+\newblock Google-Books-ID: rVvDbMWlxQsC.
+
+\harvarditem{Ho}{1995}{ho1995random}
+Ho, T.~K.: 1995, Random decision forests, {\em Proceedings of 3rd international conference on document analysis and recognition}, Vol.~1, IEEE, pp.~278--282.
+
+\harvarditem{Hochreiter and Schmidhuber}{1997}{Hochreiter19971735}
+Hochreiter, S. and Schmidhuber, J.: 1997, Long short-term memory, {\em Neural Computation} {\bf 9}(8),~1735--1780.
+
+\harvarditem{Hoseinzade and Haratizadeh}{2019}{Hoseinzade2019}
+Hoseinzade, E. and Haratizadeh, S.: 2019, {CNNpred}: {CNN}-based stock market prediction using a diverse set of variables, {\em Expert Systems with Applications} {\bf 129},~273--285.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S0957417419301915}
+
+\harvarditem[Ji et~al.]{Ji, Xu, Yang and Yu}{2012}{ji20123d}
+Ji, S., Xu, W., Yang, M. and Yu, K.: 2012, 3d convolutional neural networks for human action recognition, {\em IEEE transactions on pattern analysis and machine intelligence} {\bf 35}(1),~221--231.
+
+\harvarditem[Jiang et~al.]{Jiang, Tang, Chen, Wang and Huang}{2019}{Jiang2019}
+Jiang, Q., Tang, C., Chen, C., Wang, X. and Huang, Q.: 2019, Stock price forecast based on lstm neural network, {\em Lecture Notes on Multidisciplinary Industrial Engineering} {\bf Part F46},~393--408.
+\newblock cited By 22.
 
 \harvarditem{Jurczenko}{2020}{Jurczenko2020}
 Jurczenko, E.: 2020, {\em Machine Learning for Asset Management: New Developments and Financial Applications} .
@@ -39,14 +127,56 @@ Jurczenko, E.: 2020, {\em Machine Learning for Asset Management: New Development
 \harvarditem{Kaczmarek and Perez}{2021}{Kaczmarek20211}
 Kaczmarek, T. and Perez, K.: 2021, Building portfolios based on machine learning predictions, {\em Econ. Res.-Ekon. Istraz} pp.~1--19.
 
+\harvarditem[Kane et~al.]{Kane, Bartholomew-Biggs, Cross and Dewar}{2009}{Kane2009}
+Kane, S.~J., Bartholomew-Biggs, M.~C., Cross, M. and Dewar, M.: 2009, Optimizing {Omega}, {\em Journal of Global Optimization} {\bf 45}(1),~153--167.
+\newline\harvardurl{https://doi.org/10.1007/s10898-008-9396-5}
+
+\harvarditem[Kapsos et~al.]{Kapsos, Christofides and Rustem}{2014}{Kapsos2014}
+Kapsos, M., Christofides, N. and Rustem, B.: 2014, Worst-case robust {Omega} ratio, {\em European Journal of Operational Research} {\bf 234}(2),~499--507.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S0377221713003238}
+
+\harvarditem{Keating and Shadwick}{2002}{keating2002universal}
+Keating, C. and Shadwick, W.~F.: 2002, A universal performance measure, {\em Journal of performance measurement} {\bf 6}(3),~59--84.
+
 \harvarditem[Kolm et~al.]{Kolm, Tütüncü and Fabozzi}{2014}{Kolm2014356}
 Kolm, P., Tütüncü, R. and Fabozzi, F.: 2014, 60 years of portfolio optimization: Practical challenges and current trends, {\em European Journal of Operational Research} {\bf 234}(2),~356--371.
+
+\harvarditem{Konno and Koshizuka}{2005}{Konno2005}
+Konno, H. and Koshizuka, T.: 2005, Mean-absolute deviation model, {\em IIE Transactions} {\bf 37}(10),~893--900.
+\newline\harvardurl{https://www.tandfonline.com/doi/abs/10.1080/07408170591007786}
+
+\harvarditem{Konno and Yamazaki}{1991}{Konno1991}
+Konno, H. and Yamazaki, H.: 1991, Mean-{Absolute} {Deviation} {Portfolio} {Optimization} {Model} and {Its} {Applications} to {Tokyo} {Stock} {Market}, {\em Management Science} {\bf 37}(5),~519--531.
+\newline\harvardurl{https://pubsonline.informs.org/doi/10.1287/mnsc.37.5.519}
+
+\harvarditem{Kraus and Feuerriegel}{2017}{Kraus2017}
+Kraus, M. and Feuerriegel, S.: 2017, Decision support from financial disclosures with deep neural networks and transfer learning, {\em Decision Support Systems} {\bf 104},~38--48.
+\newblock cited By 192.
 
 \harvarditem[Kritzman et~al.]{Kritzman, Page and Turkington}{2010}{Kritzman201031}
 Kritzman, M., Page, S. and Turkington, D.: 2010, In defense of optimization: The fallacy of 1/n, {\em Financial Analysts Journal} {\bf 66}(2),~31--39.
 
+\harvarditem[LeCun et~al.]{LeCun, Bengio et~al.}{1995}{lecun1995convolutional}
+LeCun, Y., Bengio, Y. et~al.: 1995, Convolutional networks for images, speech, and time series, {\em The handbook of brain theory and neural networks} {\bf 3361}(10),~1995.
+
+\harvarditem[Li et~al.]{Li, Sun, Aw and Teo}{2019}{Li2019}
+Li, B., Sun, Y., Aw, G. and Teo, K.~L.: 2019, Uncertain portfolio optimization problem under a minimax risk measure, {\em Applied Mathematical Modelling} {\bf 76},~274--281.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S0307904X19303816}
+
 \harvarditem[Li et~al.]{Li, Wu and Chen}{2020}{li2020asset}
 Li, Y., Wu, J. and Chen, Y.: 2020, Asset allocation based on reinforcement learning, {\em 2020 IEEE 18th International Conference on Industrial Informatics (INDIN)}, Vol.~1, IEEE, pp.~397--402.
+
+\harvarditem[Long et~al.]{Long, Shelhamer and Darrell}{2015}{long2015fully}
+Long, J., Shelhamer, E. and Darrell, T.: 2015, Fully convolutional networks for semantic segmentation, {\em Proceedings of the IEEE conference on computer vision and pattern recognition}, pp.~3431--3440.
+
+\harvarditem[Lu et~al.]{Lu, Lee and Chiu}{2009}{Lu2009}
+Lu, C.-J., Lee, T.-S. and Chiu, C.-C.: 2009, Financial time series forecasting using independent component analysis and support vector regression, {\em Decision Support Systems} {\bf 47}(2),~115--125.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S0167923609000323}
+
+\harvarditem[M et~al.]{M, E.A., Menon and K.P.}{2018}{Hiransha2018}
+M, H., E.A., G., Menon, V.~K. and K.P., S.: 2018, Nse stock market prediction using deep-learning models, {\em Procedia Computer Science} {\bf 132},~1351--1362.
+\newblock International Conference on Computational Intelligence and Data Science.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S1877050918307828}
 
 \harvarditem[Ma et~al.]{Ma, Han and Wang}{2021}{Ma2021}
 Ma, Y., Han, R. and Wang, W.: 2021, Portfolio optimization with return prediction using deep learning and machine learning, {\em Expert Systems with Applications} {\bf 165}.
@@ -57,6 +187,10 @@ Malladi, R. and Fabozzi, F.: 2017, Equal-weighted strategy: Why it outperforms v
 \harvarditem{Markowitz}{1952}{Markowitz1952}
 Markowitz, H.: 1952, Portfolio selection, {\em The Journal of Finance} {\bf 7}(1),~77--91.
 
+\harvarditem{Matías and Reboredo}{2012}{Matias2012}
+Matías, J.~M. and Reboredo, J.~C.: 2012, Forecasting {Performance} of {Nonlinear} {Models} for {Intraday} {Stock} {Returns}, {\em Journal of Forecasting} {\bf 31}(2),~172--188.
+\newline\harvardurl{https://onlinelibrary.wiley.com/doi/abs/10.1002/for.1218}
+
 \harvarditem[McNeil et~al.]{McNeil, Frey and Embrechts}{2015}{McNeil20151}
 McNeil, A., Frey, R. and Embrechts, P.: 2015, Quantitative risk management: Concepts, techniques and tools: Revised edition, {\em Quantitative Risk Management: Concepts, Techniques and Tools: Revised Edition} pp.~1--699.
 
@@ -66,23 +200,99 @@ Meng, T.~L. and Khushi, M.: 2019, Reinforcement learning in financial markets, {
 \harvarditem[Mnih et~al.]{Mnih, Kavukcuoglu, Silver, Rusu, Veness, Bellemare, Graves, Riedmiller, Fidjeland, Ostrovski, Petersen, Beattie, Sadik, Antonoglou, King, Kumaran, Wierstra, Legg and Hassabis}{2015}{Mnih2015529}
 Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A., Veness, J., Bellemare, M., Graves, A., Riedmiller, M., Fidjeland, A., Ostrovski, G., Petersen, S., Beattie, C., Sadik, A., Antonoglou, I., King, H., Kumaran, D., Wierstra, D., Legg, S. and Hassabis, D.: 2015, Human-level control through deep reinforcement learning, {\em Nature} {\bf 518}(7540),~529--533.
 
+\harvarditem[Moghaddam et~al.]{Moghaddam, Moghaddam and Esfandyari}{2016}{Moghaddam2016}
+Moghaddam, A., Moghaddam, M. and Esfandyari, M.: 2016, Stock market index prediction using artificial neural network [predicción del índice del mercado bursátil utilizando una red neuronal artificial], {\em Journal of Economics, Finance and Administrative Science} {\bf 21}(41),~89--93.
+\newblock cited By 260.
+
 \harvarditem[Moody et~al.]{Moody, Wu, Liao and Saffell}{1998}{Moody1998441}
 Moody, J., Wu, L., Liao, Y. and Saffell, M.: 1998, Performance functions and reinforcement learning for trading systems and portfolios, {\em Journal of Forecasting} {\bf 17}(5-6),~441--470.
+
+\harvarditem{Moon and Yao}{2011}{Moon2011}
+Moon, Y. and Yao, T.: 2011, A robust mean absolute deviation model for portfolio optimization, {\em Computers \& Operations Research} {\bf 38}(9),~1251--1258.
+\newline\harvardurl{{https://www.sciencedirect.com/science/article/pii/S0305054810002492}}
+
+\harvarditem[Naik et~al.]{Naik, Poornima and Reddy}{2020}{Naik2020}
+Naik, P., Poornima, B.~G. and Reddy, Y.~V.: 2020, Measuring liquidity in indian stock market: A dimensional perspective, {\em PLOS ONE} {\bf 15}(9),~1--17.
+\newline\harvardurl{https://doi.org/10.1371/journal.pone.0238718}
+
+\harvarditem{Nawrocki}{1992}{Nawrocki1992}
+Nawrocki, D.~N.: 1992, The characteristics of portfolios selected by n-degree {Lower} {Partial} {Moment}, {\em International Review of Financial Analysis} {\bf 1}(3),~195--209.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/105752199290004N}
+
+\harvarditem[Nelson et~al.]{Nelson, Pereira and De~Oliveira}{2017}{Nelson2017}
+Nelson, D., Pereira, A. and De~Oliveira, R.: 2017, Stock market's price movement prediction with lstm neural networks, Vol. 2017-May, pp.~1419--1426.
+\newblock cited By 489.
+
+\harvarditem{NSE}{Nov 2023}{NSEJune2022}
+NSE: Nov 2023, Monthly report.
+
+\harvarditem[Orimoloye et~al.]{Orimoloye, Sung, Ma and Johnson}{2020}{Orimoloye2020}
+Orimoloye, L.~O., Sung, M.-C., Ma, T. and Johnson, J. E.~V.: 2020, Comparing the effectiveness of deep feedforward neural networks and shallow architectures for predicting stock price indices, {\em Expert Systems with Applications} {\bf 139},~112828.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S0957417419305305}
+
+\harvarditem[Principe et~al.]{Principe, Euliano and Lefebvre}{1999}{principe1999neural}
+Principe, J.~C., Euliano, N.~R. and Lefebvre, W.~C.: 1999, {\em Neural and adaptive systems: fundamentals through simulations with CD-ROM}, John Wiley \& Sons, Inc.
+
+\harvarditem[Qin et~al.]{Qin, Wang, Li and Ge}{2013}{qin2013linear}
+Qin, Q., Wang, Q.-G., Li, J. and Ge, S.~S.: 2013, Linear and nonlinear trading models with gradient boosted random forests and application to singapore stock market, {\em Journal of Intelligent Learning Systems and Applications} {\bf 5}(01),~1--10.
+
+\harvarditem[Rasel et~al.]{Rasel, Sultana and Meesad}{2015}{Rasel2015}
+Rasel, R.~I., Sultana, N. and Meesad, P.: 2015, An efficient modelling approach for forecasting financial time series data using support vector regression and windowing operators, {\em International Journal of Computational Intelligence Studies} {\bf 4}(2),~134.
+\newline\harvardurl{http://www.inderscience.com/link.php?id=71180}
+
+\harvarditem{{Reserve Bank of India}}{2023}{rbi_foreign_investment}
+{Reserve Bank of India}: 2023, Foreign investment in indian companies.
+\newline\harvardurl{https://www.rbi.org.in/fiilist/index.html}
+
+\harvarditem{Samarawickrama and Fernando}{2017}{Samarawickrama2017}
+Samarawickrama, A. and Fernando, T.: 2017, A recurrent neural network approach in predicting daily stock prices an application to the sri lankan stock market, Vol. 2018-January, pp.~1--6.
+\newblock cited By 59.
+
+\harvarditem{Schuster and Paliwal}{1997}{Schuster1997}
+Schuster, M. and Paliwal, K.: 1997, Bidirectional recurrent neural networks, {\em IEEE Transactions on Signal Processing} {\bf 45}(11),~2673--2681.
+\newblock cited By 5827.
+
+\harvarditem[Sermpinis et~al.]{Sermpinis, Karathanasopoulos, Rosillo and de~la Fuente}{2019}{Sermpinis2019}
+Sermpinis, G., Karathanasopoulos, A., Rosillo, R. and de~la Fuente, D.: 2019, Neural networks in financial trading, {\em Ann. Oper. Res.} pp.~1--16.
+\newblock cited By 7.
+
+\harvarditem{Sezer and Ozbayoglu}{2018}{Sezer2018}
+Sezer, O.~B. and Ozbayoglu, A.~M.: 2018, Algorithmic financial trading with deep convolutional neural networks: {Time} series to image conversion approach, {\em Applied Soft Computing} {\bf 70},~525--538.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S1568494618302151}
 
 \harvarditem[Silver et~al.]{Silver, Huang, Maddison, Guez, Sifre, Van Den~Driessche, Schrittwieser, Antonoglou, Panneershelvam, Lanctot, Dieleman, Grewe, Nham, Kalchbrenner, Sutskever, Lillicrap, Leach, Kavukcuoglu, Graepel and Hassabis}{2016}{Silver2016484}
 Silver, D., Huang, A., Maddison, C., Guez, A., Sifre, L., Van Den~Driessche, G., Schrittwieser, J., Antonoglou, I., Panneershelvam, V., Lanctot, M., Dieleman, S., Grewe, D., Nham, J., Kalchbrenner, N., Sutskever, I., Lillicrap, T., Leach, M., Kavukcuoglu, K., Graepel, T. and Hassabis, D.: 2016, Mastering the game of go with deep neural networks and tree search, {\em Nature} {\bf 529}(7587),~484--489.
 
+\harvarditem{Singh and Srivastava}{2017}{Singh2017}
+Singh, R. and Srivastava, S.: 2017, Stock prediction using deep learning, {\em Multimedia Tools and Applications} {\bf 76}(18),~18569--18584.
+\newline\harvardurl{https://doi.org/10.1007/s11042-016-4159-7}
+
 \harvarditem{Sirignano and Cont}{2019}{Sirignano20191449}
 Sirignano, J. and Cont, R.: 2019, Universal features of price formation in financial markets: perspectives from deep learning, {\em Quantitative Finance} {\bf 19}(9),~1449--1459.
 
+\harvarditem{Surana}{2023}{Surana2023}
+Surana, L.: 2023, {VAR} and {VECM} models were used to investigate the factors that influence of {Indian} securities market performance, including the period of {Covid} 19's financial crises, {\em Journal of Decision Analytics and Intelligent Computing} {\bf 3}(1),~197--220.
+\newline\harvardurl{https://www.jdaic-journal.org/index.php/about/article/view/35}
+
 \harvarditem{Taljaard and Maré}{2021}{Taljaard20211855}
 Taljaard, B. and Maré, E.: 2021, Why has the equal weight portfolio underperformed and what can we do about it?, {\em Quantitative Finance} {\bf 21}(11),~1855--1868.
+
+\harvarditem{Theron and van Vuuren}{2018}{Theron2018}
+Theron, L. and van Vuuren, G.: 2018, The maximum diversification investment strategy: {A} portfolio performance comparison, {\em Cogent Economics \& Finance} {\bf 6}(1),~1427533.
+\newline\harvardurl{https://doi.org/10.1080/23322039.2018.1427533}
 
 \harvarditem[Wang et~al.]{Wang, Li, Zhang and Liu}{2020}{Wang2020}
 Wang, W., Li, W., Zhang, N. and Liu, K.: 2020, Portfolio formation with preselection using deep learning from long-term financial data, {\em Expert Systems with Applications} {\bf 143}.
 
 \harvarditem[Wu et~al.]{Wu, Syu, Lin and Ho}{2021}{Wu20218119}
 Wu, M.-E., Syu, J.-H., Lin, J.-W. and Ho, J.-M.: 2021, Portfolio management system in equity market neutral using reinforcement learning, {\em Applied Intelligence} {\bf 51}(11),~8119--8131.
+
+\harvarditem{Yadav and {Sangeeta}}{2023}{Yadav2023}
+Yadav, S. and {Sangeeta}: 2023, The sustainable impact of fundamental variables on the equity share pricing of the companies listed in the {S}\&{P} {BSE}-30 {Index}, pp.~203--216.
+
+\harvarditem[Yu et~al.]{Yu, Paul~Chiou, Lee and Lin}{2020}{Yu2020}
+Yu, J.-R., Paul~Chiou, W.-J., Lee, W.-Y. and Lin, S.-J.: 2020, Portfolio models with return forecasting and transaction costs, {\em International Review of Economics \& Finance} {\bf 66},~118--130.
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S1059056018309614}
 
 \harvarditem{Zhang, Zhong, Dong, Wang and Wang}{2019}{Zhang2019400}
 Zhang, K., Zhong, G., Dong, J., Wang, S. and Wang, Y.: 2019, Stock market prediction based on generative adversarial network, Vol. 147, p.~400 – 406.
